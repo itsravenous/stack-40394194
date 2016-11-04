@@ -1,0 +1,15 @@
+{
+  "name": "stack-40394194",
+  "version": "1.0.0",
+  "description": "Demo project for answering http://stackoverflow.com/questions/40394194/res-renders-callback-will-execut-twice-in-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Jardine-McNamara <tom@itsravenous.com>",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
